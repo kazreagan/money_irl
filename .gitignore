@@ -1,0 +1,12 @@
+build/
+.dart_tool/
+.pub/
+.packages
+.idea/
+.vscode/
+*.iml
+*.log
+*.lock
+*.tmp
+*.swp
+.DS_Store    
